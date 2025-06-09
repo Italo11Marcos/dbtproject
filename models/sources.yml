@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: sources
+    database: bendez
+    schema: public
+    tables:
+      - name: ben10_aliens
+      - name: ben10_battles
+      - name: ben10_enemies
