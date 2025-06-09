@@ -5,7 +5,7 @@ config-version: 2
 vars:
   min_winners: 5
 
-profile: 'default'
+profile: 'redshift_profile'
 
 model-paths: ["models"]
 analysis-paths: ["analyses"]
